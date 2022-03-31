@@ -41,9 +41,9 @@ df.to_csv('Data_set.csv', index=False)
 ```
 
 # OUPUT:
-[!output](clean1.png)
-[!output](clean2.png)
-[!output](clean3.png)
+![output](clean1.png)
+![output](clean2.png)
+![output](clean3.png)
 
 # RESULT:
 Thus, the given data is read, cleansed and the clean data is saved into the file.
